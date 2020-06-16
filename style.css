@@ -1,0 +1,25 @@
+main > div {
+    min-width: 200px;
+    min-height: 120px;
+    margin: 4px;
+}
+
+.first {
+    background-color: bisque;
+}
+
+.second {
+    background-color: cadetblue;
+}
+
+.third {
+    background-color: dodgerblue;
+}
+
+.fourth {
+    background-color: orchid;
+}
+
+.fifth {
+    background-color: sienna;
+}
