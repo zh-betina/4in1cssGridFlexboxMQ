@@ -7,7 +7,7 @@
 
 1. Umieść div'y w jednej linii:
     - [ ]  1. z wykorzystaniem czystego CSS'a
-    - [ ]  2. z wykorzystaniem Flexboxa
+    - [X]  2. z wykorzystaniem Flexboxa
 2. Rozmieść divy w wielu liniach
     - [ ]  1. z wykorzystaniem Flexboxa
     - [ ]  2. z wykorzystaniem CSS Grid'a
