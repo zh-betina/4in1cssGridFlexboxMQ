@@ -4,6 +4,12 @@ main > div {
     margin: 4px;
 }
 
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .first {
     background-color: bisque;
 }
