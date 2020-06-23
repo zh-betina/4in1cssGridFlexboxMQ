@@ -10,7 +10,7 @@
     - [ ]  2. z wykorzystaniem Flexboxa
 2. Rozmieść divy w wielu liniach
     - [ ]  1. z wykorzystaniem Flexboxa
-    - [ ]  2. z wykorzystaniem CSS Grid'a
+    - [X]  2. z wykorzystaniem CSS Grid'a
 3. Dodaj responsywność:
     Zauważ, że dla Flexboxa po zadaniu 2.1 nic już nie musisz robić.
     - [ ]  1. z wykorzystaniem Media Queries dla wersji z zadania 2.2
