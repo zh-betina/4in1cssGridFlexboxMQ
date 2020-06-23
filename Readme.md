@@ -13,6 +13,6 @@
     - [X]  2. z wykorzystaniem CSS Grid'a
 3. Dodaj responsywność:
     Zauważ, że dla Flexboxa po zadaniu 2.1 nic już nie musisz robić.
-    - [ ]  1. z wykorzystaniem Media Queries dla wersji z zadania 2.2
+    - [X]  1. z wykorzystaniem Media Queries dla wersji z zadania 2.2
 
 Więcej informacji w video: [https://vimeo.com/429701999](https://vimeo.com/429701999)

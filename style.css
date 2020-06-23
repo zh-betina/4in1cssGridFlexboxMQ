@@ -28,3 +28,9 @@ main{
 .fifth {
     background-color: sienna;
 }
+
+@media (max-width: 1000px){
+  main{
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+}
