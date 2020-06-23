@@ -1,7 +1,14 @@
 main > div {
     min-width: 200px;
     min-height: 120px;
+    width: 200px;
     margin: 4px;
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .first {
