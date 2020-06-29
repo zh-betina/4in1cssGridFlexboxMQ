@@ -2,6 +2,13 @@ main > div {
     min-width: 200px;
     min-height: 120px;
     margin: 4px;
+    flex-grow: 1;
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .first {

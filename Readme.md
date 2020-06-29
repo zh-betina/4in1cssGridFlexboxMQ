@@ -9,7 +9,7 @@
     - [ ]  1. z wykorzystaniem czystego CSS'a
     - [ ]  2. z wykorzystaniem Flexboxa
 2. Rozmieść divy w wielu liniach
-    - [ ]  1. z wykorzystaniem Flexboxa
+    - [x]  1. z wykorzystaniem Flexboxa
     - [ ]  2. z wykorzystaniem CSS Grid'a
 3. Dodaj responsywność:
     Zauważ, że dla Flexboxa po zadaniu 2.1 nic już nie musisz robić.
